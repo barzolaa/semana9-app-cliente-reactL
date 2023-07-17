@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(186, 238, 220);
+}
+h1{
+    text-align: center;
+}
+table {
+
+    border-collapse: collapse;
+
+}
+
+
+
+
+table {
+
+    border-collapse: collapse;
+
+}
+
+
+
+
+td, th {
+
+    border: 1px solid #999;
+
+    padding: 0.5rem;
+
+    text-align: left;
+
+}
